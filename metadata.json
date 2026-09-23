@@ -1,0 +1,6 @@
+{
+  "name": "BadLingo - Global Slang & Insults",
+  "description": "Funky interactive language app that teaches users local cuss words, insults, and slang across the globe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
